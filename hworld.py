@@ -1,1 +1,1 @@
-print("Hello Team Leonidas");
+print("Hello SJSU");
